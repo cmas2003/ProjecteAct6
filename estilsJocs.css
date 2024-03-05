@@ -1,0 +1,14 @@
+.fondo{
+    background-color: black;
+    color: white;
+    font-size: small;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+    color: white;
+    border-color: white;
+    border: 1px;
+}
